@@ -6,7 +6,10 @@ Sentinel-1 이중편파(VV, VH) 위성 레이더 영상에서 홍수로 잠긴 �
 > 학습용 실습 프로젝트입니다. 새로운 방법을 제안하는 연구가 아닙니다.
 
 - 노트북: `Sen1Floods11.ipynb` (Google Colab, T4 GPU 기준)
-- 데이터: [Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11) (`gs://sen1floods11/v1.1`). 노트북 안의 `gcloud storage rsync`로 내려받습니다. 데이터는 이 저장소에 포함하지 않았습니다. 라이선스와 인용 방법은 원 저장소를 확인하세요.
+## 데이터
+Sen1Floods11 (Bonafilia et al., 2020). 공식 저장소에 별도 라이선스가 명시되어 있지 않아 데이터는 이 저장소에 포함하지 않고, 공식 GCS 버킷에서 내려받습니다.
+
+인용: Bonafilia, D., Tellman, B., Anderson, T., Issenberg, E. (2020). Sen1Floods11: a georeferenced dataset to train and test deep learning flood algorithms for Sentinel-1. CVPR Workshops, pp. 210-211.
 
 ## 설정
 
