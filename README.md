@@ -6,7 +6,7 @@ Sentinel-1 이중편파(VV, VH) 위성 레이더 영상에서 홍수로 잠긴 �
 > 학습용 실습 프로젝트입니다. 새로운 방법을 제안하는 연구가 아닙니다.
 
 - 노트북: `Sen1Floods11.ipynb` (Google Colab, T4 GPU 기준)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<아이디>/<저장소>/blob/main/Sen1Floods11.ipynb](https://colab.research.google.com/github/AnHyunJun-michael/sen1floods11-unet-sar/blob/main/Sen1Floods11.ipynb#scrollTo=sJaWsWQNTdv3)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnHyunJun-michael/sen1floods11-unet-sar/blob/main/Sen1Floods11.ipynb)
 
 ## 데이터
 Sen1Floods11 (Bonafilia et al., 2020). 공식 저장소에 별도 라이선스가 명시되어 있지 않아 데이터는 이 저장소에 포함하지 않고, 공식 GCS 버킷에서 내려받습니다.
